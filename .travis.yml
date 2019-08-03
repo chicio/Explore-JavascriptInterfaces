@@ -1,6 +1,6 @@
 language: android
-dist: trusty
 
 before_install:
   - yes | sdkmanager "platforms;android-28"
   - yes | sdkmanager "build-tools;29.0.0"
+
