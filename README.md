@@ -6,7 +6,7 @@
 
 
 An example project in which I explore how it is possible to use Javascript interfaces to make some `WebView` web page to native communication.  
-This is a project for my blog posts [Web to native code communication on Android using JavaScript Interfaces](https://www.fabrizioduroni.it/XXX.html "Web to native code communication on Android using JavaScript Interfaces") 
+This is a project for my blog posts [Web to native code communication on Android using JavaScript Interfaces](https://www.fabrizioduroni.it/2019/09/06/html-javascript-to-native-communication-android/ "Web to native code communication on Android using JavaScript Interfaces") 
 
 ### Description
 
